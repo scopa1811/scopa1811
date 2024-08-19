@@ -1,5 +1,6 @@
 # Navigation
 - [Platform](https://scopa1811.up.railway.app)
+- [Status](https://scopa1811.betteruptime.com)
 - [Website](https://scopa1811.github.io)
 
 # Social Links
