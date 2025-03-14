@@ -55,9 +55,9 @@
 
 <!-- Facebook -->
 
-<a href="https://www.facebook.com/scopa1811" class = "icon">
-    <img src="assets/profiles/facebook.png" alt="Facebook" class="social-image">
-    <span class = "sub-title">Facebook</span>
+<a href="https://www.facebook.com/scopa1811">
+  <img src="assets/profiles/facebook.png" alt="Facebook" width="20" style="vertical-align: middle; margin-right: 8px;">
+  <span style="font-size: 16px; color: #9EB1FF;">Facebook</span>
 </a>
 
 <br>
