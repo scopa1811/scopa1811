@@ -1,117 +1,67 @@
-<!-- CSS -->
-
-<style>
-  body {
-    font-family: monospace;
-  }
-
-  .image {
-    margin-right: 16px;
-    height: 30px;
-    width: auto;
-  }
-
-  .icon {
-    display: flex;
-  }
-
-  .social-image {
-    margin-right: 16px;
-    height: 20px;
-    width: auto;
-  }
-
-  .bold {
-    font-weight: bold;
-  }
-
-  .title {
-    font-size: 20px;
-  }
-
-  .sub-title {
-    font-size: 16px;
-    color: #9EB1FF;
-  }
-
-  .header {
-    font-size: 40px;
-  }
-
-  details {
-    margin-top: 10px;
-    margin-left: 18px;
-  }
-</style>
-
-<!-- ------------------------------------- -->
-
-<!-- Profiles -->
-
 <br>
-<p class = "header bold">Profiles</p>
-<p>Connect with me by travelling to one of my profiles below:</p>
+<p style="font-weight: bold; font-size: 40px; font-family: monospace;">Profiles</p>
+<p style="font-family: monospace;">Connect with me by travelling to one of my profiles below:</p>
 <br>
 
 <!-- Facebook -->
 
-<a href="https://www.facebook.com/scopa1811">
-  <img src="assets/profiles/facebook.png" alt="Facebook" width="20" style="vertical-align: middle; margin-right: 8px;">
-  <span style="font-size: 16px; color: #9EB1FF;">Facebook</span>
+<a href="https://www.facebook.com/scopa1811" style="display: flex;">
+    <img src="assets/profiles/facebook.png" alt="Facebook" height="20" width="auto" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 16px; color: #9EB1FF; font-family: monospace;">Facebook</span>
 </a>
 
 <br>
 
 <!-- Instagram -->
 
-<a href="https://www.instagram.com/scopa1811" class = "icon">
-    <img src="assets/profiles/instagram.png" alt="Instagram" class="social-image">
-    <span class = "sub-title">Instagram</span>
+<a href="https://www.instagram.com/scopa1811" style="display: flex;">
+    <img src="assets/profiles/instagram.png" alt="Instagram" height="20" width="auto" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 16px; color: #9EB1FF; font-family: monospace;">Instagram</span>
 </a>
 
 <br>
 
 <!-- LinkedIn -->
 
-<a href="https://www.linkedin.com/in/scopa1811" class = "icon">
-    <img src="assets/profiles/linkedin.png" alt="LinkedIn" class="social-image">
-    <span class = "sub-title">LinkedIn</span>
+<a href="https://www.linkedin.com/in/scopa1811" style="display: flex;">
+    <img src="assets/profiles/linkedin.png" alt="LinkedIn" height="20" width="auto" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 16px; color: #9EB1FF; font-family: monospace;">LinkedIn</span>
 </a>
 
 <br>
 
 <!-- Reddit -->
 
-<a href="https://www.reddit.com/user/scopa1811" class = "icon">
-    <img src="assets/profiles/reddit.png" alt="Reddit" class="social-image">
-    <span class = "sub-title">Reddit</span>
+<a href="https://www.reddit.com/user/scopa1811" style="display: flex;">
+    <img src="assets/profiles/reddit.png" alt="Reddit" height="20" width="auto" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 16px; color: #9EB1FF; font-family: monospace;">Reddit</span>
 </a>
 
 <br>
 
 <!-- Scopacasa -->
 
-<a href="https://www.scopacasa.net/user/@scopa1811" class = "icon">
-    <img src="assets/profiles/scopacasa.png" alt="Scopacasa" class="social-image">
-    <span class = "sub-title">Scopacasa</span>
+<a href="https://www.scopacasa.net/user/@scopa1811" style="display: flex;">
+    <img src="assets/profiles/scopacasa.png" alt="Scopacasa" height="20" width="auto" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 16px; color: #9EB1FF; font-family: monospace;">Scopacasa</span>
 </a>
 
 <br>
 
 <!-- X -->
 
-<a href="https://x.com/scopa1811" class = "icon">
-    <img src="assets/profiles/x.png" alt="X" class="social-image">
-    <span class = "sub-title">X</span>
+<a href="https://x.com/scopa1811" style="display: flex;">
+    <img src="assets/profiles/x.png" alt="X" height="20" width="auto" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 16px; color: #9EB1FF; font-family: monospace;">X</span>
 </a>
 
 <br>
 
 <!-- YouTube -->
 
-<a href="https://www.youtube.com/@scopa1811" class = "icon">
-    <img src="assets/profiles/youtube.png" alt="YouTube" class="social-image">
-    <span class = "sub-title">YouTube</span>
+<a href="https://www.youtube.com/@scopa1811" style="display: flex;">
+    <img src="assets/profiles/youtube.png" alt="YouTube" height="20" width="auto" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 16px; color: #9EB1FF; font-family: monospace;">YouTube</span>
 </a>
 
 <br>
@@ -133,10 +83,10 @@
 
 <div class = "icon">
     <img src="assets/skills/cloudflare.png" alt="Cloudflare" class="image">
-    <span class="bold title">Cloudflare</span>
+    <span style="font-size: 20px;" class="bold title">Cloudflare</span>
 </div>
 
-<details>
+<details style="margin-top: 10px; margin-left: 18px;">
     <summary><span class = "sub-title">Configuration</span></summary>
     <pre>Highly skilled in setting up Cloudflare for optimal performance, security, and reliability, including DNS configuration, SSL/TLS encryption, website integration, and configuring Cloudflare's proxy settings. Experienced in troubleshooting DNS resolution issues and optimising Cloudflare's configuration for improved performance.</pre>
 </details>
