@@ -1,5 +1,6 @@
 # Navigation
-- [Docs](https://scopa1811.hashnode.space)
-- [Generate](https://scopa1811.up.railway.app)
-- [Platform](https://scopa1811.streamlit.app)
-- [Website](https://scopa1811.github.io)
+- [Docs](https://docs.scopa1811.com)
+- [Forge](https://forge.scopa1811.com)
+- [Platform](https://platform.scopa1811.com)
+- [Status](https://status.scopa1811.com)
+- [Website](https://www.scopa1811.com)
